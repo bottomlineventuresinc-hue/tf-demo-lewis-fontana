@@ -1,0 +1,12 @@
+PHOTO SOURCES — hs-026-lewis Gregory Lewis Plumbing (Wave 6 2026-09-22 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential plumbing pipes/fixtures (verified; NOT window cleaner)
+services-trade.jpg — pipes/gas piping or fixture set (verified)
+job041-* — pipe/fitting B/A typical (verified prior-wave library)
+job-elec-* slots — faucet/fixtures + under-sink or WH (verified)
+job052-* — water heater / sewer drain typical (verified)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected: indoor potting, bicycle, coffee-roast, apartment mislabels — not used
+Sources: Wave6 Unsplash/Pexels downloads verified 2026-09-22 PT + prior Wave library
