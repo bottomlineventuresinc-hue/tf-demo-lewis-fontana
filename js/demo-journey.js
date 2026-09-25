@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing repair, sewer laterals, and water heater work across Fontana and the Inland Empire. You get a fixed itemised quote before we start, Gregory as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Plumbing, sewer laterals, and water heaters. Across Fontana and the Inland Empire. Gregory looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Plumbing and sprinklers,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Fontana plumbing<br>and sewer laterals,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Plumbing repair (written programme)';
+          serviceFirst.textContent = 'Water heater replacement (written price)';
         }
       }
     }
