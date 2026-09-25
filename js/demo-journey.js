@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing, sewer laterals, and water heaters. Across Fontana and the Inland Empire. Gregory looks at the job first and puts the price in writing.';
+            'Plumbing, sewer laterals, and water heaters in Fontana. Gregory looks at the job first and puts the price in writing.';
         }
       }
     },
